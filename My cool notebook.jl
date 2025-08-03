@@ -1,6 +1,14 @@
 ### A Pluto.jl notebook ###
 # v0.20.13
 
+#> [frontmatter]
+#> title = "Tópicos Selectos"
+#> tags = ["Julia", "Instalación"]
+#> description = "Prueba Tópicos BT"
+#> 
+#>     [[frontmatter.author]]
+#>     name = "Mc Ride"
+
 using Markdown
 using InteractiveUtils
 
